@@ -2702,10 +2702,10 @@
         "blob/f05adbfebe3cde5108f16ffe29eae0959e470a7d.nq.gz"
       ],
       "ast": [
-        "aggregate/ast/a8f80172ba16fe694e37f6e07e6352ecee384c58"
+        "aggregate/ast/a8f80172ba16fe694e37f6e07e6352ecee384c58/chunk-001.nq.gz"
       ],
       "lsp": "aggregate/lsp/a8f80172ba16fe694e37f6e07e6352ecee384c58.nq.gz",
-      "repolex": "aggregate/repolex/a8f80172ba16fe694e37f6e07e6352ecee384c58"
+      "repolex": "aggregate/repolex/a8f80172ba16fe694e37f6e07e6352ecee384c58/chunk-001.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
