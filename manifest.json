@@ -2702,10 +2702,10 @@
         "blob/f05adbfebe3cde5108f16ffe29eae0959e470a7d.nq.gz"
       ],
       "ast": [
-        "aggregate/ast/a8f80172ba16fe694e37f6e07e6352ecee384c58.nq.gz"
+        "aggregate/ast/a8f80172ba16fe694e37f6e07e6352ecee384c58"
       ],
       "lsp": "aggregate/lsp/a8f80172ba16fe694e37f6e07e6352ecee384c58.nq.gz",
-      "repolex": "aggregate/repolex/a8f80172ba16fe694e37f6e07e6352ecee384c58.nq.gz"
+      "repolex": "aggregate/repolex/a8f80172ba16fe694e37f6e07e6352ecee384c58"
     }
   ],
   "commit": "commit/commit.nq.gz",
